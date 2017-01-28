@@ -1,1 +1,1 @@
-"# couchdoc" 
+# couchdoc
